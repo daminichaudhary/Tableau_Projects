@@ -21,7 +21,7 @@ This folder contains the Tableau workbook for the **British Airways Review Dashb
 
 ## Files Included
 
-- `British_Airways_Review.twbx` - Tableau workbook file for the dashboard.
+- `British Airways Review.twbx` - Tableau workbook file for the dashboard.
 - Preview of the dashboard:
   <img width="992" alt="image" src="https://github.com/user-attachments/assets/b72fa225-0550-4db5-893f-3c0d9544a4db" />
 
